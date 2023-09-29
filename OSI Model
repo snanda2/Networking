@@ -27,3 +27,23 @@ There are 7 Layers of OSI Model.
 7. Physical Layer (Transmits raw bit stream over the physical medium)
 
 
+Application Layer
+=================
+- User works on this Application Layer.
+- These applications produce the data, which has to be transferred over the network. 
+- This layer also serves as a window for the application services to access the network and for displaying the received information to the user.
+- If you want to send an email to anyone you use gmail for that. So the Gmaail will work on Application Layer.
+- HTTP, Telnet, FTP will work on this layer.
+
+Example - Gmail, Facebook, Browser, Messanger
+
+Presentation Layer
+==================
+- The presentation layer is also called the Translation layer.
+- The data from the application layer is extracted here and manipulated as per the required format to transmit over the network.
+- Data encrytion and decryption is done in this layer
+
+Example for the presentation Layer
+Let's think I have two files a.mp3 and a.txt when we double click on the a.mp3 file and try to open that file, the file will open in some mp3 player
+and if we will double click on the a.txt file that will open on a notepad. So who decides where the file will open and where to represent so the answer is
+the extension and this is controlled in the Presentation Layer.
