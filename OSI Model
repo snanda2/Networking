@@ -1,0 +1,29 @@
+OSI Model
+==========
+
+- OSI Model stands for Open System Interconnection.
+- OSI Model started in 1976 by ISO(International Standard Organizaton).
+- And created on 1986. 
+- OSI model acts as a reference model and is not implemented on the Internet because of its late invention. The current model being used is the TCP/IP model. 
+- we consider this as Reference Model.
+
+Layers Of OSI Model
+===================
+
+There are 7 Layers of OSI Model.
+
+1. Application Layer (Human Computer interaction layer where application can access network services)
+
+2. Peresentation Layer (Ensure that data is in a usable format and is where data encryption occurs)
+
+3. Session Layer (Maintaining connection and is responsible for controlling ports and session)
+
+4. Transport Layer (Transimts data using transmission protocols including TCP and UDP)
+
+5. Network Layer (Decides which physical data path will take)
+
+6. Data Layer(Defines the format of data on the network)
+
+7. Physical Layer (Transmits raw bit stream over the physical medium)
+
+
